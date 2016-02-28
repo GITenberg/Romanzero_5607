@@ -1,0 +1,25 @@
+_repo: Romanzero_5607
+creator:
+  author:
+    agent_name: Heine, Heinrich
+    alias: Heine, H. (Heinrich)
+    birthdate: 1797
+    deathdate: 1856
+    gutenberg_agent_id: '1049'
+    url: http://www.gutenberg.org/2009/agents/1049
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5607'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 19th century'
+- !lcc 'PT'
+title: Romanzero
+url: http://www.gutenberg.org/ebooks/5607
